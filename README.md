@@ -1,8 +1,6 @@
 # Project 3
-<!-- ABOUT THE PROJECT -->
-## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+## About The Project
 
 The project that I have made is a Raspberry Pi Internet Speed Monitor. How I achieved this was wirting a python script that interacts with a program called Speedtest CLI from Ookla. This program works by polling the popular speedtest.net service to get your ping, download speed, and upload speed.
 The aim of this project was to complete the requirements necessary to completing this project.
@@ -13,27 +11,13 @@ Goal's of Project 3:
 * Troubleshoot problems from start to finish
 * Practice writing documentation
 
-Not sure what to put here
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+## Built With
 
 * [Raspberry Pi](www.raspberrypi.org) - Raspberry Pi is a tiny computer a system on a chip which integrates the CPU and GPU in a single integrated circuit, with the RAM, USB ports, and other components soldered onto the board for an all-in-one package. 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- GETTING STARTED -->
 ## Getting Started
-
-Here is what is required
 
 ### Prerequisites
 
@@ -43,8 +27,6 @@ Below are all the pieces of equipment that we made use of to set up our Raspberr
   * Micro SD Card 
   * USB Drive
   * Wi-fi
-  
-  npm@latest -g
   
 
 ### Installation
@@ -130,17 +112,12 @@ Below are all the pieces of equipment that we made use of to set up our Raspberr
    Date,Time,Ping (ms),Jitter (ms),Download (Mbps),Upload (Mbps)
    04/29/21,06:28,18.32,1.21,23.30,7.78
    ```
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
+   
+   
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Final Outcome
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<img src="https://github.com/AlexGallion/Project3/blob/main/Outcome.PNG" width="500">
 
 
